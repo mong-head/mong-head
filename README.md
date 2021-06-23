@@ -13,6 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 
-  <a href="https://github.com/mong-head"><img src="https://github-readme-stats.vercel.app/api?username=mong-head&count_private=true" height="180" /></a>
+  <a href="https://github.com/mong-head"><img src="https://github-readme-stats.vercel.app/api?username=mong-head&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&count_private=true" height="180" /></a>
   <a href="https://github.com/mong-head"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mong-head&langs_count=10&hide=html,css&layout=compact" height="180" /></a>
