@@ -11,21 +11,38 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-<h3>Hi there 👋</h3>
-<p>
-🌱 I’m currently learning Java Web Programming.<br/>
-⚡ I'm interested in ML/AI.
+
+
+
+
+# Hi, I am Yujin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+
+<!-- visitor counter -->
+<!-- ![](https://komarev.com/ghpvc/?username=mong-head&label=😄&color=gray) -->
+<p> 
+<em>
+   Glad to meet you. 😄 you are my</em>
+<!--   <img src="https://komarev.com/ghpvc/?username=mong-head&label=none&color=gray" height="18"/> -->
+  <img src="https://profile-counter.glitch.me/mong-head/count.svg" height="18"/>
+  <em>'th visitor.</em>
 </p>
 
-<!-- <p align="center">
-  <a href="https://github.com/mong-head"><img src="https://github-readme-stats.vercel.app/api?username=mong-head&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=ffffff&count_private=true" height="180"/></a>
-</p> -->
+## 💙 Talking about personal stuffs:
+* 🌱 I’m currently learning full stack.<br/>
+* ⚡ I'm interested in ML/AI.
 
-<br/>
-💜
-<br/>
-<p>
-<a href="https://github.com/mong-head"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mong-head&langs_count=10&hide=html,css&layout=compact" height="180" /></a>
-</p>
-</div>
+
+
+
+
+## 💜 My github stats:
+
+<a href="https://github.com/mong-head">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=mong-head&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=ffffff&count_private=true" height="180"/> -->
+    <img src="https://github-readme-stats.vercel.app/api?username=mong-head&show_icons=true&count_private=true" height="150"/>
+</a>
+
+<a href="https://github.com/mong-head">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mong-head&langs_count=10&hide=html,css&layout=compact" height="150" />
+</a>
