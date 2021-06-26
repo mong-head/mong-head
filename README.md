@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </p>
 
 ## 💙 Talking about personal stuffs:
-* 🌱 I’m currently learning full stack.<br/>
+* 🌱 I’m currently learning full stack development.<br/>
 * ⚡ I'm interested in ML/AI.
 
 
